@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "game"
+    "github.com/skowe/Go_Sudoku/game"
 )
 
 func main(){
