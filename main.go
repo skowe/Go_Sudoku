@@ -5,6 +5,8 @@ import (
     "github.com/skowe/Go_Sudoku/game"
 )
 
+const Version = 0.0.1
+
 func main(){
     tab := game.NewSolvedTable()
     play := true
